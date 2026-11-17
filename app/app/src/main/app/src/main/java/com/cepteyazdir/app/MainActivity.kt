@@ -6,7 +6,7 @@ import android.hardware.usb.UsbManager
 import android.widget.Button
 import android.widget.LinearLayout
 import android.widget.TextView
-
+import android.view.ViewGroup
 class MainActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
